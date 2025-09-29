@@ -79,13 +79,6 @@ Most of these platforms have **affiliate programs** — replace `YOUR_AFFILIATE_
 - [Typeform](YOUR_AFFILIATE_LINK) – Surveys & lead generation forms. ![Typeform](https://img.shields.io/badge/Surveys-Typeform-orange)  
 - [UserTesting](YOUR_AFFILIATE_LINK) – Customer feedback & insights. ![UserTesting](https://img.shields.io/badge/Feedback-UserTesting-red)  
 
----
-
-## 💡 Monetization Tips
-1. Replace all `YOUR_AFFILIATE_LINK` with your referral links.  
-2. Add CTA buttons like `[👉 Sign Up](YOUR_AFFILIATE_LINK)` for higher conversions.  
-3. Share your list on **Hacker News, Reddit, Indie Hackers, Twitter/X**.  
-4. Update monthly with new tools — founders love fresh resources.  
 
 ---
 
