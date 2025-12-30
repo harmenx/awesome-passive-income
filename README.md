@@ -1,85 +1,139 @@
-# 🚀 Awesome Startup Tools
+# Passive Income Resources
 
-A curated list of the best tools for startups — from idea to launch to scale.  
-Most of these platforms have **affiliate programs** — replace `YOUR_AFFILIATE_LINK` with your tracking link.  
+A curated, no-fluff list of tools, platforms, and systems for building **scalable passive income**.  
+Focus: automation, leverage, low maintenance, and asymmetric upside.
 
----
-
-## 📌 Table of Contents
-- [Domains & Hosting](#domains--hosting)
-- [Productivity & Collaboration](#productivity--collaboration)
-- [Design & Prototyping](#design--prototyping)
-- [Development & Infrastructure](#development--infrastructure)
-- [Marketing & Growth](#marketing--growth)
-- [Finance & Operations](#finance--operations)
-- [Analytics & Customer Feedback](#analytics--customer-feedback)
+> ⚠️ Disclosure: Some links below are **affiliate links**. If you use them, I may earn a commission at no extra cost to you. I only include tools that are genuinely useful.
 
 ---
 
-## 🌐 Domains & Hosting
-- [Namecheap](YOUR_AFFILIATE_LINK) – Affordable domains & SSL. ![Namecheap](https://img.shields.io/badge/Domains-Namecheap-orange)  
-- [Google Domains](YOUR_AFFILIATE_LINK) – Easy-to-manage domains. ![GoogleDomains](https://img.shields.io/badge/Domains-Google-blue)  
-- [Bluehost](YOUR_AFFILIATE_LINK) – Hosting with WordPress support. ![Bluehost](https://img.shields.io/badge/Hosting-Bluehost-lightblue)  
-- [Hostinger](YOUR_AFFILIATE_LINK) – Budget-friendly hosting for startups. ![Hostinger](https://img.shields.io/badge/Hosting-Hostinger-purple)  
-- [Cloudflare](YOUR_AFFILIATE_LINK) – CDN, DNS, and security. ![Cloudflare](https://img.shields.io/badge/CDN-Cloudflare-orange)  
+## 🧠 Core Principles (Read This First)
+- Prefer **one-to-many** systems over time-for-money
+- Optimize for **distribution > product**
+- Automate early, iterate fast
+- Stack skills: tech + marketing + arbitrage
 
 ---
 
-## 👩‍💻 Productivity & Collaboration
-- [Notion](YOUR_AFFILIATE_LINK) – All-in-one workspace for docs, tasks, and wikis. ![Notion](https://img.shields.io/badge/Productivity-Notion-black)  
-- [ClickUp](YOUR_AFFILIATE_LINK) – Project management with flexibility. ![ClickUp](https://img.shields.io/badge/Tasks-ClickUp-green)  
-- [Slack](YOUR_AFFILIATE_LINK) – Team communication & integrations. ![Slack](https://img.shields.io/badge/Chat-Slack-blue)  
-- [Zoom](YOUR_AFFILIATE_LINK) – Video meetings & webinars. ![Zoom](https://img.shields.io/badge/Video-Zoom-purple)  
-- [Miro](YOUR_AFFILIATE_LINK) – Collaborative whiteboarding. ![Miro](https://img.shields.io/badge/Whiteboard-Miro-yellow)  
+## 💻 Software & SaaS (High-Leverage)
+
+### Website & App Hosting
+- **Vercel** – Frontend hosting for fast MVPs  
+  👉 https://vercel.com/?ref=YOUR_AFFILIATE_ID
+- **Railway** – Backend + cron jobs + databases  
+  👉 https://railway.app?ref=YOUR_AFFILIATE_ID
+
+### Domains
+- **Namecheap** – Cheap domains, fast setup  
+  👉 https://www.namecheap.com/?aff=YOUR_AFFILIATE_ID
 
 ---
 
-## 🎨 Design & Prototyping
-- [Canva](YOUR_AFFILIATE_LINK) – Easy design for pitch decks, social posts, and more. ![Canva](https://img.shields.io/badge/Design-Canva-teal)  
-- [Figma](YOUR_AFFILIATE_LINK) – Collaborative UI/UX design. ![Figma](https://img.shields.io/badge/UIUX-Figma-purple)  
-- [Envato Elements](YOUR_AFFILIATE_LINK) – Stock assets, graphics, and templates. ![Envato](https://img.shields.io/badge/Assets-Envato-green)  
-- [Adobe Creative Cloud](YOUR_AFFILIATE_LINK) – Professional creative suite. ![Adobe](https://img.shields.io/badge/Creative-Adobe-red)  
+## 🤖 AI & Automation
+
+### AI APIs / Tools
+- **OpenAI** – LLMs for content, apps, automation  
+  👉 https://platform.openai.com/?ref=YOUR_AFFILIATE_ID
+- **LM Studio** – Run models locally (zero API cost)  
+  👉 https://lmstudio.ai/
+
+### Automation
+- **Zapier** – No-code automation  
+  👉 https://zapier.com/?ref=YOUR_AFFILIATE_ID
+- **n8n** – Self-hosted automation (better margins)  
+  👉 https://n8n.io/?ref=YOUR_AFFILIATE_ID
 
 ---
 
-## 🛠 Development & Infrastructure
-- [GitHub](YOUR_AFFILIATE_LINK) – Code hosting & collaboration. ![GitHub](https://img.shields.io/badge/Code-GitHub-black)  
-- [GitLab](YOUR_AFFILIATE_LINK) – DevOps lifecycle management. ![GitLab](https://img.shields.io/badge/DevOps-GitLab-orange)  
-- [Render](YOUR_AFFILIATE_LINK) – Simple cloud hosting for apps. ![Render](https://img.shields.io/badge/Hosting-Render-blue)  
-- [Netlify](YOUR_AFFILIATE_LINK) – Hosting for static sites & Jamstack. ![Netlify](https://img.shields.io/badge/Hosting-Netlify-lightblue)  
-- [Vercel](YOUR_AFFILIATE_LINK) – Frontend deployment for Next.js & beyond. ![Vercel](https://img.shields.io/badge/Deploy-Vercel-black)  
-- [Heroku](YOUR_AFFILIATE_LINK) – Simple PaaS hosting. ![Heroku](https://img.shields.io/badge/Hosting-Heroku-purple)  
+## 📱 Content → Cash Pipelines
+
+### Video / UGC / Faceless Content
+- **CapCut** – Fast short-form editing  
+  👉 https://www.capcut.com/?ref=YOUR_AFFILIATE_ID
+- **Pictory** – Text → video automation  
+  👉 https://pictory.ai?ref=YOUR_AFFILIATE_ID
+
+### Scheduling
+- **Hootsuite** – Multi-platform scheduling  
+  👉 https://www.hootsuite.com/?ref=YOUR_AFFILIATE_ID
 
 ---
 
-## 📈 Marketing & Growth
-- [HubSpot](YOUR_AFFILIATE_LINK) – CRM, sales, and marketing automation. ![HubSpot](https://img.shields.io/badge/CRM-HubSpot-orange)  
-- [Mailchimp](YOUR_AFFILIATE_LINK) – Email marketing for startups. ![Mailchimp](https://img.shields.io/badge/Email-Mailchimp-yellow)  
-- [ConvertKit](YOUR_AFFILIATE_LINK) – Email marketing for creators & startups. ![ConvertKit](https://img.shields.io/badge/Email-ConvertKit-purple)  
-- [GetResponse](YOUR_AFFILIATE_LINK) – All-in-one marketing platform. ![GetResponse](https://img.shields.io/badge/Marketing-GetResponse-green)  
-- [Buffer](YOUR_AFFILIATE_LINK) – Social media scheduling & analytics. ![Buffer](https://img.shields.io/badge/Social-Buffer-blue)  
-- [Hotjar](YOUR_AFFILIATE_LINK) – Heatmaps & user behavior analytics. ![Hotjar](https://img.shields.io/badge/Analytics-Hotjar-red)  
+## 🧩 Mobile Apps & Games
+
+### Game Engines
+- **Unity** – Hyper-casual games, quizzes  
+  👉 https://unity.com/
+- **Godot** – Open-source, no fees  
+  👉 https://godotengine.org/
+
+### Monetization
+- **Google AdMob** – Mobile ads  
+  👉 https://admob.google.com/home/
+- **AppLovin** – High eCPM for casual games  
+  👉 https://www.applovin.com/
 
 ---
 
-## 💵 Finance & Operations
-- [Stripe](YOUR_AFFILIATE_LINK) – Payments, billing, and subscriptions. ![Stripe](https://img.shields.io/badge/Payments-Stripe-purple)  
-- [PayPal](YOUR_AFFILIATE_LINK) – Global online payments. ![PayPal](https://img.shields.io/badge/Payments-PayPal-blue)  
-- [QuickBooks](YOUR_AFFILIATE_LINK) – Accounting and bookkeeping. ![QuickBooks](https://img.shields.io/badge/Accounting-QuickBooks-green)  
-- [FreshBooks](YOUR_AFFILIATE_LINK) – Cloud accounting & invoicing. ![FreshBooks](https://img.shields.io/badge/Accounting-FreshBooks-orange)  
-- [Gusto](YOUR_AFFILIATE_LINK) – Payroll, benefits, and HR. ![Gusto](https://img.shields.io/badge/HR-Gusto-red)  
-- [Deel](YOUR_AFFILIATE_LINK) – Global payroll & compliance. ![Deel](https://img.shields.io/badge/Payroll-Deel-darkblue)  
+## 🧾 Finance & Crypto (High Risk, High Upside)
+
+### Exchanges
+- **Binance**  
+  👉 https://www.binance.com/en/register?ref=YOUR_AFFILIATE_ID
+- **Coinbase**  
+  👉 https://www.coinbase.com/join/YOUR_AFFILIATE_ID
+
+### On-Chain Tools
+- **Dune Analytics** – Free crypto analytics  
+  👉 https://dune.com/
+- **Zapper** – Portfolio + DeFi tracking  
+  👉 https://zapper.fi/?ref=YOUR_AFFILIATE_ID
 
 ---
 
-## 📊 Analytics & Customer Feedback
-- [Google Analytics](YOUR_AFFILIATE_LINK) – Web & app analytics. ![GA](https://img.shields.io/badge/Analytics-Google-blue)  
-- [Mixpanel](YOUR_AFFILIATE_LINK) – Product analytics for startups. ![Mixpanel](https://img.shields.io/badge/Analytics-Mixpanel-purple)  
-- [Amplitude](YOUR_AFFILIATE_LINK) – Behavioral analytics for growth. ![Amplitude](https://img.shields.io/badge/Product-Amplitude-green)  
-- [Typeform](YOUR_AFFILIATE_LINK) – Surveys & lead generation forms. ![Typeform](https://img.shields.io/badge/Surveys-Typeform-orange)  
-- [UserTesting](YOUR_AFFILIATE_LINK) – Customer feedback & insights. ![UserTesting](https://img.shields.io/badge/Feedback-UserTesting-red)  
+## 📚 Learning (ROI-Focused)
 
+### Marketing & Growth
+- **ConvertKit** – Email lists that convert  
+  👉 https://convertkit.com/?lmref=YOUR_AFFILIATE_ID
+- **Gumroad** – Sell digital products instantly  
+  👉 https://gumroad.com/?ref=YOUR_AFFILIATE_ID
+
+### Tech & Skills
+- **Frontend Masters** – High-signal dev education  
+  👉 https://frontendmasters.com/?ref=YOUR_AFFILIATE_ID
 
 ---
 
-> Made with ❤️ to help founders, solopreneurs, and startup teams scale smarter.
+## 🛠️ Recommended Passive Income Plays
+- Hyper-casual mobile games (ads + volume)
+- Faceless YouTube channels (automation + affiliates)
+- Niche SaaS (boring problems, high retention)
+- Quizzes / calculators / generators
+- AI wrappers with organic SEO
+
+---
+
+## ⚠️ Reality Check
+Passive income is **built**, not found.  
+Expect:
+- 0 → 1 grind
+- Long tails
+- Uneven payoffs
+
+The upside compounds.
+
+---
+
+## 📌 Disclaimer
+This is **not financial advice**. Do your own research.  
+Affiliate links help fund experimentation and tooling.
+
+---
+
+## ⭐ Contribute
+PRs welcome.  
+Only submit resources that are:
+- Proven
+- Automatable
+- Scalable
