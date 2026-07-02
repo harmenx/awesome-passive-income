@@ -43,6 +43,7 @@ This document organizes high-leverage tools for building passive income. Tools a
 | Unity | Game engine | Hyper-Casual Games | Industry standard, large community |
 | Godot | Game engine | Hyper-Casual Games | Lightweight, open-source |
 | AdMob | Ads & monetization | Hyper-Casual Games / Apps | Easy integration, revenue tracking |
+| [GetAppNiche](https://getappniche.com) | App niche and revenue research | Games / Apps | iOS revenue estimates, ASO keywords, and competitor research |
 | AppLovin | Ads & monetization | Hyper-Casual Games | Focused on casual mobile games |
 | Firebase | Analytics & backend | Games / Apps | Free tier, real-time DB & analytics |
 | PlayFab | Game backend | Games | Retention and player analytics |
