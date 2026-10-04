@@ -36,6 +36,8 @@ Focus: automation, leverage, low maintenance, and asymmetric upside.
   👉 https://platform.openai.com/?ref=YOUR_AFFILIATE_ID
 - **LM Studio** – Run models locally (zero API cost)  
   👉 https://lmstudio.ai/
+- **AI eBook Pro** – One sentence → finished eBook to sell (chapters, cover, PDF/EPUB/DOCX)  
+  👉 https://aiebookpro.com/
 
 ### Automation
 - **Zapier** – No-code automation  
