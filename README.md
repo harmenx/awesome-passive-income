@@ -90,6 +90,7 @@ Covers products you can sell, audiences you can own, software you can charge for
 - [Buffer](https://buffer.com/) - Schedules posts across social accounts.
 - [TubeBuddy](https://www.tubebuddy.com/) - Researches keywords and tags for YouTube channels.
 - [vidIQ](https://vidiq.com/) - Researches keywords and tracks analytics for YouTube channels.
+- [RemakeThat](https://remakethat.com/) - Turns proven TikTok and Facebook videos into original faceless affiliate clips starring an AI creator.
 
 ## Mobile Apps and Games
 
