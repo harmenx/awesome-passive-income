@@ -1,0 +1,28 @@
+name: Report a problem
+description: A broken link, an outdated description, or something that no longer belongs.
+labels: [broken-link]
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Entry
+      placeholder: "[Name](https://url)"
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: Problem
+      options:
+        - The link is broken
+        - The description is out of date
+        - The product shut down or changed name
+        - It no longer belongs on the list
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: What you saw, and the new link or wording if you know it.
