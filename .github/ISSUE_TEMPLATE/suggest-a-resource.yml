@@ -1,0 +1,71 @@
+name: Suggest a resource
+description: Propose a tool, platform, guide, or community for the list.
+labels: [suggestion]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: Pictory
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: The canonical page, with no affiliate or tracking parameters.
+      placeholder: https://pictory.ai/
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section
+      options:
+        - Start Here
+        - Digital Products
+        - Templates and Assets
+        - Stock Media and Music
+        - Print on Demand
+        - Courses and Memberships
+        - Newsletters and Publishing
+        - Affiliate Programs
+        - Advertising and Sponsorships
+        - Video and Podcasts
+        - Apps, Extensions, and Games
+        - Software Billing and Licensing
+        - Build and Automate
+        - Analytics and SEO
+        - Renting Out Assets
+        - Buying and Selling Businesses
+        - Guides
+        - Tax and Disclosure
+        - Communities
+        - Investing
+        - Savings and Bonds
+        - On-chain Yield
+        - A new section
+    validations:
+      required: true
+  - type: input
+    id: description
+    attributes:
+      label: One-sentence description
+      placeholder: Turns scripts, articles, and slides into videos.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it belongs
+      description: How does it help someone earn income that continues after the setup work?
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: I am not affiliated with it, or I have said how I am below.
+        - label: It is not already in the list.
+          required: true

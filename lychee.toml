@@ -1,0 +1,19 @@
+# Link checker settings for README.md and CONTRIBUTING.md.
+
+max_concurrency = 16
+max_retries = 3
+retry_wait_time = 5
+timeout = 30
+user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130 Safari/537.36"
+
+# Many listed sites sit behind bot protection and answer automated requests with
+# 403 or 429 while working normally in a browser. Dead pages answer 404, 410, or
+# fail to resolve, so those are still caught.
+accept = ["200..=299", "403", "429"]
+
+exclude = [
+  # Returns 404 to every automated request, including its home page.
+  "^https://(www\\.)?ftc\\.gov/",
+  # Blocks unauthenticated requests from CI runners.
+  "^https://(www\\.)?reddit\\.com/",
+]

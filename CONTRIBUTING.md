@@ -13,6 +13,8 @@ You can contribute in the following ways:
 - **Fix a dead link, typo, or formatting problem**
 - **Suggest an improvement** by opening a GitHub issue
 
+If you would rather not edit the readme yourself, use the **Suggest a resource** or **Report a problem** issue form and a maintainer will add it.
+
 Before you add something, check that it is not already listed. Search the readme for the name and the URL.
 
 ## 2. Guidelines for Adding Tools
@@ -65,6 +67,7 @@ Rules for that line:
 - Spell product names the way the project does (`YouTube`, `WordPress`, `iOS`, `GitHub`).
 - Keep each entry on one line. Do not hard-wrap it.
 - Only list something you can recommend. A shorter list is better than a complete one.
+- Avoid figures that change often, such as fees or follower thresholds. Link the page that states them instead.
 
 Only submit a resource that is:
 
@@ -76,5 +79,8 @@ Only submit a resource that is:
 
 1. Open `README.md` and add the entry at the end of the right section.
 2. If you add a new section, add it to `Contents` with the same wording as the heading. Do not add Contributing or Footnotes to `Contents`.
-3. Explain in the pull request why the resource belongs here.
-4. Do not add a license section to the readme. The license is the `LICENSE` file.
+3. Start a new section with a short note on who it suits and how much upfront work it takes, in the same plain style as the existing sections. Guides and Communities are the exception.
+4. Explain in the pull request why the resource belongs here, and say if you are affiliated with it.
+5. Do not add a license section to the readme. The license is the `LICENSE` file.
+
+Every pull request runs [awesome-lint](https://github.com/sindresorhus/awesome-lint) and a link check. Fix anything they report before asking for a review. A scheduled link check also runs every Monday and opens an issue when a link breaks.
