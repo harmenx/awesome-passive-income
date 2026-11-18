@@ -14,6 +14,8 @@ accept = ["200..=299", "403", "429"]
 exclude = [
   # Returns 404 to every automated request, including its home page.
   "^https://(www\\.)?ftc\\.gov/",
+  # Sends an HTTP/2 protocol error to lychee but loads normally in browsers and curl.
+  "^https://webflow\\.com/",
   # Blocks unauthenticated requests from CI runners.
   "^https://(www\\.)?reddit\\.com/",
 ]
